@@ -85,6 +85,8 @@ indexes.
 
 ### Group D: Mini Project / Database Application Development
 
+### [My DBMS mini-project](https://github.com/pavanpatil45/Auto-Spare-Parts-Management) 👈
+
 Student group of size 3 to 4 students should decide the statement and scope of the project which
 will be refined and validated by the faculty considering number of students in the group.
 Draw and normalize the design up to at ER Diagram least 3NF in case of back end as RDBMS.
