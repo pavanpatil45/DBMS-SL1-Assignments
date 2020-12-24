@@ -105,8 +105,7 @@ any applications like employee management system, library management system etc.
 properties. Make use of commands like commit, save point, and rollback. You may use
 examples like transfer of money from one account to another, cancellation of e-tickets etc. 
 
-## Connect with me:
-  
+## Connect with me:  
 <a href="https://instagram.com/p4v4n" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="instagram" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/pavan-patil-445a33150" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/pavanpatil45" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" alt="twitter" height="30" width="30" /></a>&nbsp;
